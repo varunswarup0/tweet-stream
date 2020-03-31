@@ -1,9 +1,22 @@
+export const ADD_TWEETS = 'ADD_TWEETS';
+
 export const fetchTweets = () => {
   return dispatch => {
+    // dispatch(setStatusToLoading());
     fetch('http://tweet-stream.glitch.me/api/tweets')
       .then(response => response.json())
       .then(response => {
-        console.log(response, dispatch);
+        dispatch(addTweets(response.tweets));
       });
   };
 };
+
+export const addTweets = tweets => ({
+  type: ADD_TWEETS,
+  payload: { tweets },
+});
+
+// export const setStatusToLoading = () => ({
+//   type: SET_STATUS,
+//   payload: { status: LOADING },
+// });

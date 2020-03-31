@@ -1,7 +1,7 @@
 import React from 'react';
+import { connect } from 'react-redux';
 
 import Tweet from './Tweet';
-import { connect } from 'react-redux';
 
 const Tweets = ({ tweets = [] }) => {
   return (
@@ -15,4 +15,4 @@ const Tweets = ({ tweets = [] }) => {
 
 const mapStateToProps = ({ tweets }) => ({ tweets });
 
-export default connect(mapStateToProps)(Tweet);
+export default connect(mapStateToProps)(Tweets);
