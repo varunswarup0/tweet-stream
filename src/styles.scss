@@ -1,7 +1,24 @@
+// $button-color: rgb(28, 209, 83);
 $button-color: rgb(28, 209, 83);
 $danger-color: #f0544f;
 $control-color: #c79528;
 $font-color: #28283d;
+
+.fetchTweetsButton {
+  font-size: 2rem;
+  // letter-spacing: -0.5rem;
+  margin-left: -0.25rem;
+  text-transform: uppercase;
+}
+
+.pageHeading {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 1rem;
+  line-height: 1.25rem;
+  margin-left: 0.25rem;
+  font-weight: normal;
+}
 
 @mixin input-style($color) {
   background-color: $color;
@@ -34,14 +51,21 @@ $font-color: #28283d;
   box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.2);
 }
 
-html,
-body,
-* {
-  box-sizing: border-box;
-}
+// html,
+// body,
+// * {
+//   box-sizing: border-box;
+// }
 
 body {
   margin: 0;
+  font-family: Helvetica;
+  color: var(--dark);
+  background-color: var(--bg);
+  padding: 2rem;
+  position: relative;
+  box-shadow: 10px 0 3px -5px rgba(255, 255, 255, 0.25) inset;
+  min-height: 100vh;
 }
 
 body,
@@ -54,33 +78,45 @@ input {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+// code {
+//   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+//     monospace;
+// }
 
-select {
-  border-radius: 0;
-  color: $font-color;
-  margin: 1em 0;
-  padding: 1em;
-  width: 100%;
-}
+// select {
+//   border-radius: 0;
+//   color: $font-color;
+//   margin: 1em 0;
+//   padding: 1em;
+//   width: 100%;
+// }
 
-option {
-  padding: 1em;
-}
+// option {
+//   padding: 1em;
+// }
 
-input {
-  @include input-style(white);
-}
+// input {
+//   @include input-style(white);
+// }
 
 button,
 input[type='submit'] {
-  @include button-style($button-color);
-  &.danger {
-    @include button-style($danger-color);
-  }
+  width: 100%;
+  padding: 1em;
+  // max-width: 200px;
+  font-family: 'Dimitri Swank';
+  // transition-property: all;
+  // transition-duration: 1s;
+  cursor: pointer;
+
+  border: 1px solid black;
+  color: #8abb3b;
+  background-color: black;
+  outline: none;
+  border: none;
+}
+
+button:hover {
 }
 
 .Application {
@@ -91,8 +127,8 @@ input[type='submit'] {
   max-width: 600px;
 }
 
-.Tweet {
-  border: 1px solid $control-color;
-  margin: 1em 0;
-  padding: 1em;
-}
+// .Tweet {
+//   border: 1px solid $control-color;
+//   margin: 1em 0;
+//   padding: 1em;
+// }

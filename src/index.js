@@ -17,7 +17,7 @@ const store = createStore(reducer, applyMiddleware(thunk));
 const Application = () => {
   return (
     <div className="Application">
-      <h1>Tweet Stream</h1>
+      <h1 className="pageHeading">Tweet Stream</h1>
       <FetchTweets />
       <Tweets />
     </div>

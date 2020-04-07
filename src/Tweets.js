@@ -5,11 +5,15 @@ import Tweet from './Tweet';
 
 const Tweets = ({ tweets = [] }) => {
   return (
-    <section className="Tweets">
-      {tweets.map(tweet => (
+    <ul class="masonry-list">
+      {/* <section className="Tweets"> */}
+      {tweets.map((tweet) => (
+        // <li class="tile-twitter">
         <Tweet key={tweet.id} tweet={tweet} />
+        // </li>
       ))}
-    </section>
+      {/* </section> */}
+    </ul>
   );
 };
 
