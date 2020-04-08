@@ -7,8 +7,7 @@
     <!-- </a> -->
 </p>
 
-
-tStream is a highly extensible open-source **Redux-Thunk** application on the [React](https://reactjs.org/) framework. tStream is developed to deliver robust **multi-lingual and multi-portal websites** while providing an **intuitive and extensible administration interface** to manage the full content lifecycle.
+tStream is a highly extensible open-source **Redux-Thunk** application on the [React](https://reactjs.org/) framework. tStream is developed to deliver robust **fast and scalable results** while providing an **intuitive and extensible administration toolkit** to manage the full content lifecycle.
 
 <br/>
 <p align="center">
@@ -18,13 +17,11 @@ tStream is a highly extensible open-source **Redux-Thunk** application on the [R
 
 This repository contains the **core framework of the tStream content management system**. The Redux library implements the functionality that is built into the tStream content management system and therefore is a dependency of all tSream projects.
 
-
 <br/>
 <p align="center">
     <img width="80%" src="https://github.com/varunswarup0/tweet-stream/blob/master/tStream%20Interface.png" alt="tStream Slideshow">
 </p>
 <br/>
-
 
 If you want to **start a new tStream project**, you might be interested in the [tweet-stream/blob](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) template repository.
 
@@ -38,11 +35,11 @@ tStream aims to be a **community-driven open source project**. I am committed to
 
 ## 📫&nbsp; Have a question? Want to chat? Ran into a problem?
 
- You can always **reach out to me directly** via the [my twitter account](https://twitter.com/SwarupVs) or post your question on [StackOverflow](https://stackoverflow.com/questions/tagged/tStream) with the `tStream` tag.
+You can always **reach out to me directly** via the [my twitter account](https://twitter.com/SwarupVs) or post your question on [StackOverflow](https://stackoverflow.com/questions/tagged/tStream) with the `tStream` tag.
 
 ## 🤝&nbsp; Found a bug? Missing a specific feature?
 
-Feel free to **file a new issue** with a respective title and description on the the [tSream](https://github.com/varunswarup0/tweet-stream/issues) repository. If you already found a solution to your problem, **we would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [tSream](https://github.com/varunswarup0/tweet-stream/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
 
 ## ✅&nbsp; Requirements
 
