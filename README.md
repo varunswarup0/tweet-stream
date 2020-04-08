@@ -1,11 +1,4 @@
-# TWEET STREAM
-
-| [DOCUMENTATION](https://redux.js.org/ "Redux's Docs") |
-| ----------------------------------------------------- |
-
-
-> A Fast and scalable App made with Redux
-> which will serve as a boilerplate for future Redux-based apps
+# tSTREAM
 
 <br/>
 <p align="center">
@@ -33,9 +26,9 @@ tStream is a highly extensible open-source **Redux-Thunk** application on the [R
 </p>
 <br/>
 
-This repository contains the **core framework of the Sulu content management system**. The framework implements the functionality that is built into the Sulu content management system and therefore is a dependency of all Sulu projects.
+This repository contains the **core framework of the tStream content management system**. The Redux library implements the functionality that is built into the tStream content management system and therefore is a dependency of all tSream projects.
 
-If you want to **start a new Sulu project**, you might be interested in the [sulu/skeleton](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) template repository. If you are planning to **extend your existing Sulu project**, visit the [Sulu organization](https://github.com/sulu) on GitHub for a complete list of official Sulu bundles.
+If you want to **start a new Sulu project**, you might be interested in the [sulu/skeleton](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) template repository.
 
 ## 🚀&nbsp; Installation and Documentation
 
