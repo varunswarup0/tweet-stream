@@ -17,3 +17,4 @@
 
 
 ![alt text](https://github.com/varunswarup0/tweet-stream/blob/master/tweetStream.png)
+![alt text](https://github.com/varunswarup0/tweet-stream/blob/master/fetchTweets.webm)
