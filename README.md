@@ -38,7 +38,7 @@ tStream aims to be a **community-driven open source project**. I am committed to
 
 ## 📫&nbsp; Have a question? Want to chat? Ran into a problem?
 
-We are happy to welcome you in our official [Slack channel](https://sulu.io/services-and-support)! Obviously you can always **reach out to us directly** via the [Sulu twitter account](https://twitter.com/sulu) or post your question on [StackOverflow](https://stackoverflow.com/questions/tagged/sulu) with the official `sulu` tag.
+ You can always **reach out to me directly** via the [my twitter account](https://twitter.com/SwarupVs) or post your question on [StackOverflow](https://stackoverflow.com/questions/tagged/tStream) with the `tStream` tag.
 
 ## 🤝&nbsp; Found a bug? Missing a specific feature?
 
