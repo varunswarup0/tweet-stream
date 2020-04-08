@@ -47,6 +47,7 @@
     </a>
 </p>
 <br/>
+[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
 
 tStream is a highly extensible open-source **Redux-Thunk** application on the [React](https://reactjs.org/) framework. tStream is developed to deliver robust **multi-lingual and multi-portal websites** while providing an **intuitive and extensible administration interface** to manage the full content lifecycle.
 
