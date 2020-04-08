@@ -22,31 +22,6 @@
     </a>
 </p>
 
-<br/>
-<p align="center">
-    <a href="https://github.com/sulu/sulu/blob/master/LICENSE" target="_blank">
-        <img src="https://img.shields.io/github/license/sulu/sulu.svg" alt="GitHub license">
-    </a>
-    <a href="https://github.com/sulu/sulu/releases" target="_blank">
-        <img src="https://img.shields.io/github/tag/sulu/sulu.svg" alt="GitHub tag (latest SemVer)">
-    </a>
-    <a href="https://travis-ci.org/sulu/sulu" target="_blank">
-        <img src="https://img.shields.io/travis/sulu/sulu.svg?label=travis" alt="Travis build">
-    </a>
-    <a href="https://circleci.com/gh/sulu/sulu/tree/master" target="_blank">
-        <img src="https://circleci.com/gh/sulu/sulu/tree/master.svg?style=shield" alt="CircleCI build">
-    </a>
-    <a href="https://github.com/sulu/sulu/commits/master" target="_blank">
-        <img src="https://img.shields.io/github/commit-activity/y/sulu/sulu.svg" alt="GitHub commit activity">
-    </a>
-    <a href="https://github.com/sulu/sulu/graphs/contributors" target="_blank">
-        <img src="https://img.shields.io/github/contributors-anon/sulu/sulu.svg" alt="GitHub contributors">
-    </a>
-    <a href="https://packagist.org/packages/sulu/sulu" target="_blank">
-        <img src="https://img.shields.io/packagist/dt/sulu/sulu.svg" alt="Packagist downloads">
-    </a>
-</p>
-<br/>
 
 
 tStream is a highly extensible open-source **Redux-Thunk** application on the [React](https://reactjs.org/) framework. tStream is developed to deliver robust **multi-lingual and multi-portal websites** while providing an **intuitive and extensible administration interface** to manage the full content lifecycle.
