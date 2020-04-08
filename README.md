@@ -17,9 +17,9 @@
 
 <br/>
 <p align="center">
-    <a href="https://sulu.io/" target="_blank">
-        <img width="50%" src="https://sulu.io/website/images/sulu.svg" alt="Sulu logo">
-    </a>
+    <!-- <a href="" target="_blank"> -->
+        <img width="50%" src="https://github.com/varunswarup0/tweet-stream/blob/master/fetchTweets.png" alt="tStream logo">
+    <!-- </a> -->
 </p>
 
 
@@ -28,7 +28,7 @@ tStream is a highly extensible open-source **Redux-Thunk** application on the [R
 
 <br/>
 <p align="center">
-    <img width="80%" src="https://sulu.io/uploads/media/800x@2x/07/167-ezgif.gif?v=2" alt="Sulu Slideshow">
+    <img width="80%" src="https://github.com/varunswarup0/tweet-stream/blob/master/fetchTweets.gif" alt="tStream Slideshow">
 </p>
 <br/>
 
