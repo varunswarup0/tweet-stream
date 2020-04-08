@@ -7,6 +7,13 @@
     <!-- </a> -->
 </p>
 
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 tStream is a highly extensible open-source **Redux-Thunk** application on the [React](https://reactjs.org/) framework. tStream is developed to deliver robust **fast and scalable results** while providing an **intuitive and extensible administration toolkit** to manage the full content lifecycle.
 
 <br/>
@@ -17,11 +24,7 @@ tStream is a highly extensible open-source **Redux-Thunk** application on the [R
 
 This repository contains the **core framework of the tStream content management system**. The Redux library implements the functionality that is built into the tStream content management system and therefore is a dependency of all tSream projects.
 
-<br/>
-<p align="center">
-    <img width="80%" src="https://github.com/varunswarup0/tweet-stream/blob/master/tStream%20Interface.png" alt="tStream Slideshow">
-</p>
-<br/>
+
 
 If you want to **start a new tStream project**, you might be interested in the [tweet-stream/blob](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) template repository.
 
@@ -48,3 +51,13 @@ tSream requires a **Node version higher or equal to v13.9.0** and is compatible 
 ## 📘&nbsp; License
 
 The tSream content management system is released under the under terms of the [MIT License](LICENSE).
+
+
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
+
+<br/>
+<p align="center">
+    <img width="80%" src="https://github.com/varunswarup0/tweet-stream/blob/master/tStream%20Interface.png" alt="tStream Slideshow">
+</p>
+<br/>
