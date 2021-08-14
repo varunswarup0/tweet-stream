@@ -29,7 +29,7 @@ If you want to **start a new tStream project**, you might be interested in the [
 
 ## 🚀&nbsp; Installation and Documentation
 
-The [tStream/package.json](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) provides a **pre-configured project JSON template** to quick-start your development. Visit the official [Redux documentation](https://redux.js.org/) to find out how to use the project template for starting your own tSream project.
+The [tStream](https://github.com/varunswarup0/tweet-stream/blob/master/package.json) provides a **pre-configured project JSON template** to quick-start your development. Visit the official [Redux documentation](https://redux.js.org/) to find out how to use the project template for starting your own tSream project.
 
 ## ❤️&nbsp; Community and Contributions
 
